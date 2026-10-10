@@ -16,7 +16,8 @@ Welcome to my central repository for Bachelor of Computer Applications (BCA) not
 
 ### 📘 1st Year
 
-- [Mathematics I](1st-Year/Semester-1/Mathematics-I/) — Discrete mathematics, calculus, and linear algebra notes.
+- [Mathematics I](BCA_MATERIALS_01
+/Mathematics-1/) — Discrete mathematics, calculus, and linear algebra notes.
 - [Foundations of IT](1st-Year/Semester-1/IT-Foundations/) — Hardware basics, computer architecture, and OS concepts.
 - [Programming in C](1st-Year/Semester-1/Programming-in-C/) — Syntax, pointers, arrays, memory management, and lab programs.
 - [Web Designing](1st-Year/Semester-1/Web-Designing/) — HTML5, CSS3, modern styling, and basic JavaScript.
